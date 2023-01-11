@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: 기획 문서 
+    chapters : 
+    - file: 000_guide.md
+  - caption: Sensing > Digital Encoding
+    chapters:
+    - file: K35_1_A_iii_0.md
+    - file: K35_1_A_iii_1.md
+    - file: K35_1_A_iii_2.md
+    - file: K35_1_A_iii_3.md
