@@ -31,11 +31,11 @@
     `` ```{note}``` ``
 
 - 예시 2 : 같은 책 안의 챕터(마크다운 혹은 노트북 파일)인용하는 roles
-    - {doc}`markdown-notebooks`
-    - 대괄호 안에 'doc'라고 쓰고, `을 이용하여 파일 이름을 쓰면, 해당 파일의 h1으로 지정된 텍스트로 링크가 걸림
-    - 구현 방식 : 
-    `` {doc}`markdown-notebooks` ``
-    
+   %-- - {doc}`markdown-notebooks`
+    %- 대괄호 안에 'doc'라고 쓰고, `을 이용하여 파일 이름을 쓰면, 해당 파일의 h1으로 지정된 텍스트로 링크가 걸림
+    %- 구현 방식 : 
+    %`` {doc}`markdown-notebooks` ``
+     %-->
 - 예시 3 : 인용
     - 레퍼런스 인용은 `bibtex` 파일로 저장하여 활용할 수 있음
     - {cite}`holdgraf_evidence_2014`
