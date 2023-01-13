@@ -7,9 +7,12 @@ parts:
   - caption: 기획 문서 
     chapters : 
     - file: 000_guide.md
+    - file: 001_guide_writing_draft.md
   - caption: Sensing > Digital Encoding
     chapters:
     - file: K35_1_A_iii_0.md
     - file: K35_1_A_iii_1.md
     - file: K35_1_A_iii_2.md
     - file: K35_1_A_iii_3.md
+    - file: K35_1_A_iii_98.md
+    - file: K35_1_A_iii_99.md
